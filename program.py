@@ -8,7 +8,11 @@ activities = {8: 'Sleeping',
               22: 'Resting',
 			  }
 
-print sdadasdas
+print 'Komenatrz'
+print 'Komenatrz'
+print 'Komenatrz'
+print 'Komenatrz'
+print 'Komenatrz'
 
 for activity_time in sorted(activities.keys()):
     if hour < activity_time:
